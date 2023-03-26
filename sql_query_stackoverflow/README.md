@@ -21,7 +21,7 @@
 
 **ER-диаграмма**
 
-![ER-диаграмма](https://github.com/aefr1/data-analysis-projects/blob/main/sql_request_stackoverflow/erd.png)
+![ER-диаграмма](https://github.com/aefr1/sql-data-analysis/blob/main/sql_query_stackoverflow/erd.png)
 
 *Таблица stackoverflow.badges* (Хранит информацию о значках, которые присуждаются за разные достижения) 
 
