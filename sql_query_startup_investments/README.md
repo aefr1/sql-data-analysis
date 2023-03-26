@@ -21,7 +21,7 @@
 
 **ER-диаграмма**
 
-![ER-диаграмма](https://github.com/aefr1/data-analysis-projects/blob/main/sql_request_startup_investments/er_diagram.png)
+![ER-диаграмма](https://github.com/aefr1/sql-data-analysis/blob/main/sql_query_startup_investments/er_diagram.png)
 
 *Таблица acquisition* (Содержит информацию о покупках одних компаний другими)
 
