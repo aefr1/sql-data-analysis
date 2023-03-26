@@ -64,7 +64,7 @@
             <td>3</td>
             <td>
                 <b>
-                    <a href="https://github.com/aefr1/data-analysis-projects/tree/main/sql_analysis_reading_service">
+                    <a href="https://github.com/aefr1/sql-data-analysis/tree/main/sql_analysis_reading_service">
                     SQL Анализ базы данных сервиса для чтения книг</a>
                 </b>
             </td>
