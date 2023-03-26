@@ -45,7 +45,7 @@
 
 **ER-диаграмма**
 
-![ER-диаграмма](https://github.com/aefr1/data-analysis-projects/blob/main/sql_analysis_reading_service/erd_reading_service.png)
+![ER-диаграмма](https://github.com/aefr1/sql-data-analysis/blob/main/sql_analysis_reading_service/erd_reading_service.png)
 
 **Таблица `books`**
 
