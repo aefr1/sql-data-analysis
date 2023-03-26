@@ -38,7 +38,7 @@
             <td>2</td>
             <td>
                 <b>
-                    <a href="https://github.com/aefr1/data-analysis-projects/tree/main/sql_request_stackoverflow">
+                    <a href="https://github.com/aefr1/sql-data-analysis/tree/main/sql_query_stackoverflow">
                     SQL запросы для анализа базы данных StackOverflow</a>
                 </b>
             </td>
